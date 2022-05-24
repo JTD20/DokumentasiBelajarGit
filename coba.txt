@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 Halo ini coba saja.
-10 2041160014 Firmansyah Hifsony S0ny1205
+
 =======
 Halo ini coba saja. 
 22 2041160045 Yoga Wisesa
 10 2041160014 Firmansyah Hifsony
+20 2041160135 Septian Lanjar Prabowo
 >>>>>>> c3bf816caa471593a240053a809fb1a0c4ed5b0c
