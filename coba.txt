@@ -1,7 +1,6 @@
-
-
-
->>>>>>> 787c367d501c8b7d33b9dd1ef95cf29fcb7a209f
+=======
+Halo ini coba saja.
+>>>>>>> 39afba01fed6f64a3de0b6f690a36e4ee1711d84
 02-2041160048-Annisa Azelia A
 01-2041160137-Abdu Faiq Mu'afiy
 19-2041160165-Raihandito Setyaki Kenasteka
@@ -14,7 +13,7 @@
 04-2041160013-Aditya Verdianda Y
 22-2041160074-Thio Yudika
 16-2041160098-Muhammad Wildanul Arief Ruslan
-
+02-2041160039-Abirawa Agung Laksana
 13-2041160073-Fatonatul Mubarokah
 
 09-2041160023-Atha Azhar Arrafi
