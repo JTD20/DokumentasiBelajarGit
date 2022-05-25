@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-13-2041160073-Fatonatul Mubarokah
-=======
-Halo ini coba saja.
-02-2041160048-Annisa Azelia A
-23-2041160046-Yayang Uyunurrohma
->>>>>>> refs/remotes/origin/JTD-2C-20
+13-2041160073-Fatonatul
