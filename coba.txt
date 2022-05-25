@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Halo ini coba saja.
+02-2041160048-Annisa Azelia A
+19-2041160165-Raihandito Setyaki Kenasteka
+=======
+11-2041160015-Euodia Sihombing
+
+03-2041160067-Adam Rabbani Aji
+>>>>>>> 73d0828eeb5078492ce3289ee162aa7840374479
+18-2041160163-Qurrotul Ainis Sholehah
