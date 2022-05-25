@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 16_2041160098_Muhammad Wildanul Arief Ruslan
+=======
+Halo ini coba saja.
+02-2041160048-Annisa Azelia A
+19-2041160165-Raihandito Setyaki Kenasteka
+
+11-2041160015-Euodia Sihombing
+
+03-2041160067-Adam Rabbani Aji
+18-2041160163-Qurrotul Ainis Sholehah
+07-2041160077-Antonius Erdie Natalionel
+04-2041160013-Aditya Verdianda Y
+22-2041160074-Thio Yudika
+16-2041160098-Muhammad Wildanul Arief Ruslan
+>>>>>>> 60c46a6e90277ad13e24dcd8dfbf05cb140e4633
