@@ -11,9 +11,4 @@ Halo ini coba saja.
 04-2041160013-Aditya Verdianda Y
 22-2041160074-Thio Yudika
 16-2041160098-Muhammad Wildanul Arief Ruslan
-<<<<<<< HEAD
 08-2041160023-Atha Azhar Arrafi
-=======
-09-2041160023-Atha Azhar Arrafi
-
->>>>>>> d303f8680dae520a858bce5da158ef4dac3d88df
