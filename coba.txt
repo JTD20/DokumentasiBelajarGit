@@ -1,5 +1,7 @@
 
-Halo ini coba saja.
+
+
+>>>>>>> 787c367d501c8b7d33b9dd1ef95cf29fcb7a209f
 02-2041160048-Annisa Azelia A
 01-2041160137-Abdu Faiq Mu'afiy
 19-2041160165-Raihandito Setyaki Kenasteka
@@ -12,6 +14,11 @@ Halo ini coba saja.
 04-2041160013-Aditya Verdianda Y
 22-2041160074-Thio Yudika
 16-2041160098-Muhammad Wildanul Arief Ruslan
+
+13-2041160073-Fatonatul Mubarokah
+
+09-2041160023-Atha Azhar Arrafi
+
 09-2041160155-Bagus Iqbal A R
 14-2041160003-Ferdiansyah Farandi
 08-2041160023-Atha Azhar Arrafi
