@@ -1,2 +1,8 @@
 Halo ini coba saja.
+<<<<<<< HEAD
 13-2041160026-Satria Anizam Misbakhul Akbar
+=======
+Donny Bagas Kuncoro
+04
+2041160020
+>>>>>>> c5ff8aabac6b46a881eb00c30dc1be5e0813aaf3
