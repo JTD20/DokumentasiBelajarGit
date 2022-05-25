@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-16_2041160098_Muhammad Wildanul Arief Ruslan
-=======
+
 Halo ini coba saja.
 02-2041160048-Annisa Azelia A
 19-2041160165-Raihandito Setyaki Kenasteka
@@ -13,4 +11,4 @@ Halo ini coba saja.
 04-2041160013-Aditya Verdianda Y
 22-2041160074-Thio Yudika
 16-2041160098-Muhammad Wildanul Arief Ruslan
->>>>>>> 60c46a6e90277ad13e24dcd8dfbf05cb140e4633
+09-2041160155-Bagus Iqbal A R
