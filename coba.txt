@@ -1,2 +1,4 @@
 Halo ini coba saja.
 Data mahasiswa
+-------------------------------------
+15 2041160006 Kusuma Dewi Puspitasari
