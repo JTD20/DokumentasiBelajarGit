@@ -1,2 +1,10 @@
 Halo ini coba saja.
+<<<<<<< HEAD
 06 2041160157 Dimas Kurniawan
+=======
+<<<<<<< HEAD
+01 2041160049 Ananta Wicaksana
+=======
+17 2041160075 Rafli Dewantoro
+>>>>>>> e5ea897aa0641f3edf1cbaec439f0403f2e83689
+>>>>>>> 33d7d49738654f47d05d8bd34cf7a984b130cb2c
