@@ -1,5 +1,7 @@
 Halo ini coba saja.
 Data mahasiswa
+<<<<<<< HEAD
+=======
 01 2041160090 Ahmad Fadhlan Sueby
 02 2041160158 Alvin Aldorino Setiawan
 03 2041160030 Anita Marselia
