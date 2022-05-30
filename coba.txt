@@ -2,10 +2,13 @@ Halo ini coba saja.
 Data mahasiswa
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 09 2041160107 Eka Wijaya
 
 =======
 =======
+=======
+>>>>>>> 0905e50adfe719c5b24792a66a2d2dc01ee8b394
 01 2041160090 Ahmad Fadhlan Sueby
 02 2041160158 Alvin Aldorino Setiawan
 03 2041160030 Anita Marselia
