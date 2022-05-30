@@ -1,7 +1,6 @@
 Halo ini coba saja.
 Data mahasiswa
 
-
 01 2041160090 Ahmad Fadhlan Sueby
 02 2041160158 Alvin Aldorino Setiawan
 03 2041160030 Anita Marselia
@@ -9,4 +8,6 @@ Data mahasiswa
 12 2041160072 Febri Hermana Putra
 15 2041160006 Kusuma Dewi Puspitasari
 18 2041160103 Muhammad Hibban Syakir
+16 2041160042 Lillah Nur Imania
+
 
