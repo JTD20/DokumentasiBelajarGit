@@ -8,9 +8,8 @@ Data mahasiswa
 12 2041160072 Febri Hermana Putra
 13 2041160055 Ilham Okta Alpriansyah
 15 2041160006 Kusuma Dewi Puspitasari
-18 2041160103 Muhammad Hibban Syakir
 16 2041160042 Lillah Nur Imania
-
+18 2041160103 Muhammad Hibban Syakir
 
 
 
