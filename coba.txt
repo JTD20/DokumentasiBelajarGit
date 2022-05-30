@@ -7,5 +7,6 @@ Data mahasiswa
 03 2041160030 Anita Marselia
 09 2041160107 Eka Wijaya
 12 2041160072 Febri Hermana Putra
+14 2041160088 Karin Febri Absari
 15 2041160006 Kusuma Dewi Puspitasari
 
