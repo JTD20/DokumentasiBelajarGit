@@ -1,7 +1,14 @@
 Halo ini coba saja.
 Data mahasiswa
 <<<<<<< HEAD
+<<<<<<< HEAD
 09 2041160107 Eka Wijaya
 
+=======
+=======
+01 2041160090 Ahmad Fadhlan Sueby
+02 2041160158 Alvin Aldorino Setiawan
+03 2041160030 Anita Marselia
+>>>>>>> 227a5051768d3fee63748d6e8676c0a003084966
 15 2041160006 Kusuma Dewi Puspitasari
 
