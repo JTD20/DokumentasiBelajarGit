@@ -5,6 +5,7 @@ Data mahasiswa
 02 2041160158 Alvin Aldorino Setiawan
 03 2041160030 Anita Marselia
 09 2041160107 Eka Wijaya
+10 2041160143 Fadel Filla Akbar Santoso
 12 2041160072 Febri Hermana Putra
 13 2041160055 Ilham Okta Alpriansyah
 14 2041160088 Karin Febri Absari
@@ -12,6 +13,7 @@ Data mahasiswa
 16 2041160042 Lillah Nur Imania
 18 2041160103 Muhammad Hibban Syakir
 19 2041160117 Nandia Alifia Dewi
+
 
 
 
