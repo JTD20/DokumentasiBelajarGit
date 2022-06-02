@@ -1,4 +1,10 @@
 Halo ini coba saja.
 02-2041160048-Annisa Azelia A
 06-2041160136-Anas Habiburohman Rohmatulloh
+<<<<<<< HEAD
 07-2041160126-Dytto Ardjiono
+=======
+22-2041160024-Trio Prawiro Negoro
+18-2041160052-Salsabila Andhika Nuraini
+Maulana deski
+>>>>>>> 822a7774610b8a9b1f880cc870f6bd9f4777284d
